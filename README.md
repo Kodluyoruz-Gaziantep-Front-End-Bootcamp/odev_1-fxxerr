@@ -1,6 +1,8 @@
 # Hafta 1 
 
-##Ödev 1
+## Ödev 1
+
+
 
 # Ödev içeriği 
 
@@ -46,13 +48,13 @@ her sorunun cevabını console.log ile yazıdırın
 
 ## Ödev Tanımı
 
-```
 
-Javascript Temel Array Metodları
 
-```
+### Javascript Temel Array Metodları
+
+
 
 
 ## Yapan
 
-```Tuğberk Muratoğlu```
+### Tuğberk Muratoğlu
