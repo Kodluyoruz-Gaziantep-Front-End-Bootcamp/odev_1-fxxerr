@@ -1,8 +1,10 @@
-# Week - NULL
-```Hafta 1  
-Ödev 1 ```
+# Hafta 1 
 
-# Homework 
+##Ödev 1
+
+# Ödev içeriği 
+
+
 ```
 let arr1 = ["2", "a", "3", 3, 4, 3, 5, 5];
 let arr2 = ["c", "c", "h", 1, 1, 1, 4];
@@ -14,7 +16,9 @@ let arr3 = [
   { name: "selim", id: 112 },
 ];
 let arr4 = [1, 1, 1, 4, 5, 5, 3, 2];
-/* 
+
+
+
 1- arr1 başına 'a' elemanını ekleyiniz
 
 
@@ -40,7 +44,7 @@ her sorunun cevabını console.log ile yazıdırın
 ```
 
 
-## Homework Description
+## Ödev Tanımı
 
 ```
 
@@ -49,6 +53,6 @@ Javascript Temel Array Metodları
 ```
 
 
-## Author
+## Yapan
 
 ```Tuğberk Muratoğlu```
